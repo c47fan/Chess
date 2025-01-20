@@ -32,7 +32,7 @@ Start a new game:
 ```
 game <white player> <black player>
 ```
-Where the parameters `white player` and `black player` can be `human`, `computer1`, `computer2`, `computer3`, or `computer4`. 
+Where the parameters `white player` and `black player` can be `human`, `computer1`, `computer2` or `computer3`. The computer levels increase in difficulty with `computer1` being the easiest and `computer3` being the most difficult. 
 
 Start a game with a custom initial configuration:
 ```
